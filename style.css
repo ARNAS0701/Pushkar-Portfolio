@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box; 
+}
+
+.adjust{
+    width: 85%;
+    border: #f56565 4px solid;
+    border-radius: 10px;
+    padding: 12px;
+} 
